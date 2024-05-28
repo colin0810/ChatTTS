@@ -1,5 +1,12 @@
 # ChatTTS
 
+
+## Quick Start
+```
+pip install --upgrade -r requirements.txt 
+python3 app.py "your text"
+```
+
 ## To be Finished
 
 ```python
